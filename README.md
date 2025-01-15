@@ -1,0 +1,1 @@
+This project features an aesthetically pleasing login interface designed using HTML and CSS. The theme is centered around a calming purple color scheme with transparency effects, perfect for a night chill mode.
